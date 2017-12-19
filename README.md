@@ -1,1 +1,1 @@
-This project extends CSC375 project 3 to run over a cluster.
+This project extends CSC375HW3 to run over a cluster.
