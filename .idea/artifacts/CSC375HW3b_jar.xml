@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="CSC375HW3b:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/CSC375HW3b_jar</output-path>
+    <root id="archive" name="CSC375HW3b.jar">
+      <element id="module-output" name="CSC375HW3b" />
+    </root>
+  </artifact>
+</component>

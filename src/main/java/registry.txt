@@ -1,0 +1,5 @@
+Name:   IP Address:   Top:   Bot:   South Neighbor:   North Neighbor:   Port:
+pi      ip_address    0      249    south:rho         north:altair      12345
+rho     ip_address    250    499    south:wolf        north:pi          10934
+wolf    ip_address    500    749    south:altair      north:rho         16294
+altair  ip_address    750    999    south:pi          north:wolf        18340
